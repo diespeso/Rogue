@@ -1,6 +1,6 @@
 #include "render_component.hpp"
 
-#include "entity.hpp"
+#include "../entity.hpp"
 RenderComponent::~RenderComponent()
 {
 	std::cout << "Destroyed Render Component with content: "

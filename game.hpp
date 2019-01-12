@@ -1,7 +1,8 @@
 #ifndef GAME_HPP
 #define GAME_HPP
 
-#include "render_system.hpp"
+#include "systems/render_system.hpp"
+#include "components/position_component.hpp"
 #include "board.hpp"
 
 class Game

@@ -2,7 +2,7 @@
 #define ENTITY_HPP
 
 #include "non_copyable.hpp"
-#include "component.hpp"
+#include "components/component.hpp"
 #include "util.hpp"
 #include <map>
 #include <vector>

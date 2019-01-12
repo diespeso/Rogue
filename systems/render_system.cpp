@@ -1,6 +1,6 @@
 #include "render_system.hpp"
-#include "position_component.hpp"
-#include "util.hpp"
+#include "../components/position_component.hpp"
+#include "../util.hpp"
 
 #include <iostream>
 

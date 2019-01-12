@@ -2,7 +2,7 @@
 #define RENDER_COMPONENT_HPP
 
 #include "component.hpp"
-#include "board.hpp"
+#include "../board.hpp"
 
 class RenderComponent: public Component
 {

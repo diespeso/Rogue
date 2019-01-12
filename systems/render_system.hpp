@@ -3,10 +3,10 @@
 
 #include <vector>
 
-#include "board.hpp"
+#include "../board.hpp"
 #include "system.hpp"
-#include "render_component.hpp"
-#include "entity.hpp"
+#include "../components/render_component.hpp"
+#include "../entity.hpp"
 
 
 class RenderSystem: public System

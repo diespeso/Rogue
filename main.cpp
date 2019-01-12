@@ -1,8 +1,4 @@
-#include "board.hpp"
-#include "entity.hpp"
-#include "render_component.hpp"
-#include "render_system.hpp"
-#include "position_component.hpp"
+#include "game.hpp"
 #include <iostream>
 
 int main()
